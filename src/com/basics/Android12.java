@@ -10,5 +10,6 @@ public class Android12{
         System.out.println(Android11.abc);
         versionEight(10);
         Android11.versionEight(20);
+        System.out.println("Test");
     }
 }
