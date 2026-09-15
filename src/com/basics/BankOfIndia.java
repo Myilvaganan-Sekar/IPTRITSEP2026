@@ -10,5 +10,6 @@ public class BankOfIndia extends RbiBank{
         BankOfIndia boi = new BankOfIndia();
         boi.rateOfInterest();
         boi.HomeLoan();
+        boi.HomeLoan();
     }
 }
